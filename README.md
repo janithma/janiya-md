@@ -23,3 +23,5 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 ## _[How to use? Documentation](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
 
 ## You can also use as a BGM bot. [Click here](https://github.com/souravkl11/raganork-md/wiki/Docs#how-to-set-up-bgm-bot)
+
+##බොට්ව මෙතනින් deploy කරන්න         https://heroku.com/deploy?template=https://github.com/janithma/janiya-md
